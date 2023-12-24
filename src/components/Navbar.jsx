@@ -6,7 +6,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg bg-light fixed-top">
         <div className="container-lg">
           <a className="navbar-brand" href="#">
-            UP Football
+            U.P Football
           </a>
           <button
             className="navbar-toggler"
