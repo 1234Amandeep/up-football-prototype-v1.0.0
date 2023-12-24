@@ -9,7 +9,7 @@ export default function HerokuBanners() {
             <div className="col-md-4 col-xs-12 col-sm-4">
               <div className="card text-bg-dark border-0">
                 <img
-                  src="./src/assets/images/heroku/banners/banner-01.gif"
+                  src="http://www.footballdelhi.com/wp-content/uploads/2018/11/live-match.gif"
                   className="card-img"
                   alt="Advertisement of mycujoo"
                 />
@@ -18,7 +18,7 @@ export default function HerokuBanners() {
             <div className="col-md-4 col-xs-12 col-sm-4">
               <div className="card text-bg-dark border-0">
                 <img
-                  src="./src/assets/images/heroku/banners/banner-02.jpg"
+                  src="http://www.footballdelhi.com/wp-content/uploads/2018/11/u-15.jpg"
                   className="card-img"
                   alt="Academy league registration open"
                 />
@@ -27,7 +27,7 @@ export default function HerokuBanners() {
             <div className="col-md-4 col-xs-12 col-sm-4">
               <div className="card text-bg-dark border-0">
                 <img
-                  src="./src/assets/images/heroku/banners/banner-03.jpg"
+                  src="http://www.footballdelhi.com/wp-content/uploads/2018/11/d-licence.jpg"
                   className="card-img"
                   alt="Apply for D license"
                 />

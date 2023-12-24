@@ -11,13 +11,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-01.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/06/gallery-4-1.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -26,13 +26,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-02.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/06/gallery-21.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -42,13 +42,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-03.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/06/gallery-23.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -57,13 +57,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-04.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2023/04/home-page.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -72,13 +72,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-05.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/08/FeatureImage.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -87,13 +87,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-06.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/08/FeaturedImage.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -102,13 +102,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-07.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/08/FeaturedImage-1.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>
@@ -117,13 +117,13 @@ export default function Gallary() {
             <div className="col-lg-3">
               <div className="card text-bg-dark border-0 rounded-0">
                 <img
-                  src="./src/assets/images/root/gallary-cards/gallary-card-08.jpg"
+                  src="https://www.footballdelhi.com/wp-content/uploads/2018/10/featureImage.jpg"
                   className="card-img"
                   alt="..."
                 />
                 <div className="card-img-overlay">
                   <img
-                    src="./src/assets/images/root/gallary-cards/camera-icon.jpg"
+                    src="https://www.footballdelhi.com/wp-content/themes/football/img/zoom.jpg"
                     alt=""
                   />
                 </div>

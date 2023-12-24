@@ -12,28 +12,28 @@ export default function HerokuCarousel() {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="./src/assets/images/heroku/carousel-01.png"
+                src="https://www.footballdelhi.com/wp-content/uploads/2020/12/Image.png"
                 className="d-block w-100"
                 alt="our partner Sporjo"
               />
             </div>
             <div className="carousel-item">
               <img
-                src="./src/assets/images/heroku/carousel-02.jpeg"
+                src="https://www.footballdelhi.com/wp-content/uploads/2020/12/Image-1.jpeg"
                 className="d-block w-100"
                 alt="Our partner CASE"
               />
             </div>
             <div className="carousel-item">
               <img
-                src="./src/assets/images/heroku/carousel-03.jpg"
+                src="https://www.footballdelhi.com/wp-content/uploads/2019/04/2019-04-15.jpg"
                 className="d-block w-100"
                 alt="Football Ratna Sunil sir with Saji prabhakaran"
               />
             </div>
             <div className="carousel-item">
               <img
-                src="./src/assets/images/heroku/carousel-04.jpg"
+                src="https://www.footballdelhi.com/wp-content/uploads/2019/04/Banner_03.jpg"
                 className="d-block w-100"
                 alt="Trails Competitions Coaches"
               />

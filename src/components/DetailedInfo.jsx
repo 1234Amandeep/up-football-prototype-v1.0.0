@@ -6,7 +6,7 @@ export default function DetailedInfo() {
       <section className="detailed-info mt-3 mt-lg-5 text-light ">
         <img
           className="responsive-img"
-          src="./src/assets/images/main/main-01.png"
+          src="https://www.footballdelhi.com/wp-content/themes/football/img/men-woman.png"
           alt="Women's football / Men's football"
         />
         {/* Members */}
@@ -50,7 +50,7 @@ export default function DetailedInfo() {
 
                 <img
                   className="grassroot-img"
-                  src="./src/assets/images/main/GL-icon.png"
+                  src="https://www.footballdelhi.com/wp-content/themes/football/img/grassroots-icon.png"
                   alt="golden league icon"
                 />
                 <p className="lh-sm  fw-light">
@@ -61,7 +61,7 @@ export default function DetailedInfo() {
                 <h4 className="text-left">Center of Excellence</h4>
 
                 <img
-                  src="./src/assets/images/main/COE-icon.png"
+                  src="https://www.footballdelhi.com/wp-content/themes/football/img/COE-icon.png"
                   alt="center of exellence icon"
                 />
                 <p className="lh-sm mb-0 fw-light">

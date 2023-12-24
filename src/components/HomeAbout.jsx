@@ -9,7 +9,7 @@ export default function HomeAbout() {
             <div className="col-lg-3 col-md-3 mb-3 left-artist">
               <img
                 className="responsive-img pe-lg-0 pe-4"
-                src="./src/assets/images/about/logo-about.png"
+                src="https://www.footballdelhi.com/wp-content/themes/football/img/fd-about.png"
                 alt="logo left align for about section"
               />
             </div>

@@ -71,70 +71,71 @@ export default function TieupsSocialhandles() {
               <Slider {...settings} className="me-lg-0 me-5 ms-5 mb-5">
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/16.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2019/12/16.png"
+                    // 16
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/AOSM.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/AOSM.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-end">
                   <img
-                    src="./src/assets/images/root/partners/aquagri.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/aquagri.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/Axis-Bank.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/Axis-Bank.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/BUNKERHILL.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/BUNKERHILL.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/Genius.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/Genius.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/Khelo-India.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/Khelo-India.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/KINGFISHER.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/KINGFISHER.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/PSPB.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/PSPB.png"
                     className="d-block w-30"
                     alt="..."
                   />
                 </div>
                 <div className="d-flex justify-content-center">
                   <img
-                    src="./src/assets/images/root/partners/SAI.png"
+                    src="https://www.footballdelhi.com/wp-content/uploads/2023/06/SAI.png"
                     className="d-block w-30"
                     alt="..."
                   />

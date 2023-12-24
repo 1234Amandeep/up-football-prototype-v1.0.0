@@ -26,11 +26,11 @@
 }
 
 .detailed-info > .members-info {
-  background: url("./src/assets/images/main/bgs/main-bgs-01.jpg");
+  background: url("https://www.footballdelhi.com/wp-content/themes/football/img/members.jpg");
 }
 
 .detailed-info > .grassroots-info {
-  background: url("./src/assets/images/main/bgs/main-bgs-02.jpg");
+  background: url("https://www.footballdelhi.com/wp-content/themes/football/img/grassroots-bg.jpg");
   background-size: cover;
 }
 
@@ -75,7 +75,7 @@
 } */
 
 .footer {
-  background: url("./src/assets/images/root/footer/bgs/footer-bg-01.jpg");
+  background: url("https://www.footballdelhi.com/wp-content/themes/football/img/footer.jpg");
 }
 
 .rights {
