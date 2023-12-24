@@ -1,0 +1,5 @@
+1. Understand what needs to be done first in building this UI. [kewin powell] {done}
+2. Start building it then :
+  1. Write HTML of desktop view. 
+    remember to twick members layout a bit like grassroot's. ***
+    make gallary component. <<>>

@@ -1,0 +1,92 @@
+.navbar {
+  background-color: #fff;
+}
+
+.navbar-toggler:focus-visible {
+  outline: 4px solid black;
+}
+
+.heroku {
+  margin-top: 70px;
+}
+
+.about-content-container {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.detailed-info > img {
+  display: block;
+  min-width: 100%;
+}
+
+.responsive-img {
+  display: block;
+  width: 100%;
+}
+
+.detailed-info > .members-info {
+  background: url("./src/assets/images/main/bgs/main-bgs-01.jpg");
+}
+
+.detailed-info > .grassroots-info {
+  background: url("./src/assets/images/main/bgs/main-bgs-02.jpg");
+  background-size: cover;
+}
+
+.grassroots-info h4 {
+  color: #0275d8;
+}
+
+.grassroots-info {
+  color: #000;
+}
+
+.join-our-team {
+  background-color: #f98403;
+}
+
+.join-our-team ul::before {
+  content: ": ";
+}
+
+.join-our-team li::after {
+  content: "  //";
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.join-our-team li:last-child::after {
+  content: "";
+}
+
+#carousel-next-btn,
+#carousel-prev-btn {
+  display: block;
+  background: black;
+}
+
+/* @media (max-width: 370px) {
+  #carousel-prev-btn,
+  #carousel-next-btn {
+    display: none;
+  }
+} */
+
+.footer {
+  background: url("./src/assets/images/root/footer/bgs/footer-bg-01.jpg");
+}
+
+.rights {
+  background-color: #14222d;
+  color: white;
+}
+
+footer ul > li {
+  color: #989899;
+}
+
+#uid-li {
+  color: #fff;
+}
