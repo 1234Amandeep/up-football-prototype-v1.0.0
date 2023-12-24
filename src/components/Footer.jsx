@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
 
         <img
-          src="./src/assets/images/root/footer/bottom-line.png"
+          src="https://www.footballdelhi.com/wp-content/themes/football/img/bottom.png"
           alt="bottom line"
           style={{ display: "block", width: "100%" }}
         />
